@@ -1,0 +1,12 @@
+.navbar {
+  margin: 2px 2px 2px 2px;
+}
+
+.booklist {
+  text-align: center;
+}
+
+.book {
+  display: flex;
+  justify-content: center;
+}
